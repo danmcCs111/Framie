@@ -1,0 +1,6 @@
+package appMain;
+
+public class Connection 
+{
+	private IHttpManager httpManager = DEFAULT_HTTP_MANAGER;
+}

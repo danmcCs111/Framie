@@ -1,0 +1,10 @@
+package appMain;
+
+public Frameify()
+{
+	
+}
+public static void main(String [] args)
+{
+	System.out.println("");
+}
