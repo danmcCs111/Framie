@@ -1,2 +1,3 @@
 # Framie
-Testing has not received all videos when looking up a channel. 
+Testing has revealed:
+not all videos are received when looking up a channel. 
